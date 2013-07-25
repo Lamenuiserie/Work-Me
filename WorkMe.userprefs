@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Branch.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Branch.cs" Line="433" Column="62" />
+      <File FileName="Assets\Scripts\CommunicationProcessing.cs" Line="14" Column="25" />
+      <File FileName="Assets\Scripts\Player.cs" Line="74" Column="1" />
+      <File FileName="Assets\Scripts\GameConstants.cs" Line="21" Column="46" />
+      <File FileName="Assets\Scripts\NaturalLanguageProcessing.cs" Line="26" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Branch.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>maxMaxRotation</Value>
+          <Value>maxMinRotation</Value>
+          <Value>maxRotation</Value>
+          <Value>minMaxRotation</Value>
+          <Value>minMinRotation</Value>
+          <Value>minRotation</Value>
+          <Value>newMaxRotation</Value>
+          <Value>newMinRotation</Value>
+          <Value>actualMaximumRotation</Value>
+          <Value>parent</Value>
+          <Value>prevParent</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
